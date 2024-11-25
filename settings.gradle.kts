@@ -1,0 +1,2 @@
+rootProject.name = "AutoTestQaZadanie1"
+
